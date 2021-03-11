@@ -13,7 +13,7 @@ align: 'left',
 gradient: ['magenta', 'red']
 })
 
-CFonts.say('----------------- IQBAL -----------------', {
+CFonts.say('----------------- IQBALRIZKIMAULANA -----------------', {
     font: 'console',
     align: 'center',
     gradient: ['red', 'yellow']
