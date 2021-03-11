@@ -18,7 +18,7 @@ CFonts.say('----------------- IQBALRIZKIMAULANA -----------------', {
     align: 'center',
     gradient: ['red', 'yellow']
 })
-CFonts.say('Welcome In\nTermux Bot Wa', {
+CFonts.say('Welcome\nSelfBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
